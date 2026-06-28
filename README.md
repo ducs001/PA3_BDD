@@ -1,2 +1,2 @@
-# PA3_BDD
-Producto academico 3 para el curso de  base de datos distribuidos 
+Statistical Report using Quarto, Adapted from [numbats]<https://github.com/numbats/monash-quarto-report>
+- Reporte estadístico  `Univeridad Continental - EAP Ciencia de la Computacion`
